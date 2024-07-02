@@ -4,11 +4,7 @@ E220-900T22S(JP), a configurator for LoRa modules used only in Japan.
 I hope to support other modules in due course.
 
 ![Screenshot-20240702-132323](https://github.com/crackerjacques/Flipper_E220_Lora_Module_Configurator/assets/129548912/80d38869-2e21-4a0a-863f-c076f8f5bc5f)
-![Screenshot-20240702-132323](https://github.com/crackerjacques/Flipper_E220_Lora_Module_Configurator/assets/129548912/d74e1b23-4a42-4278-a3ab-1cb0472648eb)
-
-```
-
-
+![Screenshot-20240702-132344](https://github.com/crackerjacques/Flipper_E220_Lora_Module_Configurator/assets/129548912/d74e1b23-4a42-4278-a3ab-1cb0472648eb)
 
 # How To Connect
 
