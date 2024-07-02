@@ -3,13 +3,16 @@
 E220-900T22S(JP), a configurator for LoRa modules used only in Japan.
 I hope to support other modules in due course.
 
-![Screenshot-20240702-132323](https://github.com/crackerjacques/Flipper_E220_Lora_Module_Configurator/assets/129548912/80d38869-2e21-4a0a-863f-c076f8f5bc5f)
-![Screenshot-20240702-132344](https://github.com/crackerjacques/Flipper_E220_Lora_Module_Configurator/blob/main/src/images/Screenshot-20240702-132323.png?raw=true)
+
+![Screenshot-20240702-132344](https://github.com/crackerjacques/Flipper_E220_Lora_Module_Configurator/assets/129548912/00074dbb-6284-4063-a699-54a6d65b75d5)
+
+
 
 # How To Connect
 
 
 ```
+
 FLI  | LORA
 3.3V - Power
 PA7 - M0
@@ -21,7 +24,7 @@ GND -  GND
 ```
 
 # TODO
-
+```
 ✅Basic configure function
 ✅Basic Receive function
 ❌Send command
@@ -29,3 +32,5 @@ GND -  GND
 ❌other adapter support
 ❌Rock-paper-scissors games or other fun features
 ```
+
+![Screenshot-20240702-132323](https://github.com/crackerjacques/Flipper_E220_Lora_Module_Configurator/assets/129548912/84d7d9bc-9452-457a-8936-2e802824d270)
