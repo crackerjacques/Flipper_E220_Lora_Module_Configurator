@@ -1,0 +1,15 @@
+App(
+    appid="e220_lora_config",
+    name="E220 LoRa Configurator",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="lora_tester_app",
+    cdefines=["APP_E220_LORA_CONFIF"],
+    requires=[
+        "gui",
+    ],
+    stack_size=16 * 1024,
+    order=60,
+    fap_icon="lora_tester.png",
+    fap_category="GPIO",
+    fap_icon_assets="assets",
+)
