@@ -34,3 +34,6 @@ GND -  GND
 ```
 
 ![Screenshot-20240702-132323](https://github.com/crackerjacques/Flipper_E220_Lora_Module_Configurator/assets/129548912/84d7d9bc-9452-457a-8936-2e802824d270)
+
+Original UART Terminal
+https://github.com/cool4uma/UART_Terminal
