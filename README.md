@@ -19,11 +19,11 @@ GND -  GND
 ```
 
 # TODO
-
+```
 ✅Basic configure function
 ✅Basic Receive function
 ❌Send command
 ❌dump hex
 ❌other adapter support
 ❌Rock-paper-scissors games or other fun features
-
+```
