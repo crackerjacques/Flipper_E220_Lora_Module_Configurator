@@ -13,7 +13,7 @@ I hope to support other modules in due course.
 
 ```
 
-FLI  | LORA
+FLIP | LORA
 3.3V - Power
 PA7 - M0
 PA6 - M1
