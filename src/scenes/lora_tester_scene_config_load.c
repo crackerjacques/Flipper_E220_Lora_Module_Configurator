@@ -7,7 +7,7 @@
 #include <dialogs/dialogs.h>
 #include <gui/modules/file_browser.h>
 #include "lora_tester_icons.h"
-#include "../lora_config_hex_convert.h"
+#include "../lora_config_binary_convert.h"
 
 #define CONFIG_FILE_DIRECTORY "/ext/LoRa_Setting"
 #define CONFIG_FILE_EXTENSION ".ini"

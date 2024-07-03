@@ -2,7 +2,7 @@
 #include <furi_hal_serial.h>
 #include <furi_hal.h>
 #include <gui/elements.h>
-#include "../lora_config_hex_convert.h"
+#include "../lora_config_binary_convert.h"
 #include "lora_tester_icons.h"
 
 #define LORA_RX_BUFFER_SIZE 256
