@@ -1,3 +1,6 @@
+// THIS FUCNTION IS NOT WORKING NOW
+//STILL WIP
+
 #include "../lora_tester_app_i.h"
 #include <furi_hal_serial.h>
 #include <furi_hal.h>
