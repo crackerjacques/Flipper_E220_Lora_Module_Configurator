@@ -1,3 +1,6 @@
+//I think other modules can be supported by rewriting the values here and in configure respectively.
+// *However, it has not been tried yet.*
+
 #include "lora_config_binary_convert.h"
 #include <string.h>
 #include <stdio.h>
