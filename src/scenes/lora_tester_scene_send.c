@@ -1,5 +1,5 @@
-// THIS FUCNTION IS NOT WORKING NOW
-//STILL WIP
+// THIS FUCNTION IS NOT WORKING
+//STILL WIP NOW
 
 #include "../lora_tester_app_i.h"
 #include <furi_hal_serial.h>
